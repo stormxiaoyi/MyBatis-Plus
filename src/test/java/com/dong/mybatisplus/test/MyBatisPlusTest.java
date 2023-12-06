@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  * @Author：whd
- * @Description：
+ * @Description：BaseMapper简单使用
  * @Date：2023/12/2 下午 09:19
  */
 @SpringBootTest
