@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * @Author：whd
- * @Description：
+ * @Description：通用Service
  * @Date：2023/12/3 下午 04:11
  */
 @SpringBootTest

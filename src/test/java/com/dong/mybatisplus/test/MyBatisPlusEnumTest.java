@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 /**
  * @Author：whd
- * @Description：
+ * @Description：通用枚举
  * @Date：2023/12/5 下午 07:36
  */
 @SpringBootTest

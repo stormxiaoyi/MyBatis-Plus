@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 /**
  * @Author：whd
- * @Description：
+ * @Description：分页插件和乐观锁插件
  * @Date：2023/12/4 下午 08:04
  */
 @SpringBootTest

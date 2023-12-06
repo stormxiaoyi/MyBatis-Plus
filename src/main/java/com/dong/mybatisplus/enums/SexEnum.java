@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  * @Author：whd
- * @Description：
+ * @Description：枚举类
  * @Date：2023/12/5 下午 07:26
  */
 @Getter

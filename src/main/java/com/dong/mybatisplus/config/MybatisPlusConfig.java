@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Author：whd
- * @Description：
+ * @Description：MyBatis-Plus配置类
  * @Date：2023/12/4 下午 07:58
  */
 @Configuration
